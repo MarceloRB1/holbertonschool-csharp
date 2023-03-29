@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-dotnet new console --output
+dotnet new console -o 0-new_project
 
